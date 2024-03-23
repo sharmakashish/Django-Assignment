@@ -1,1 +1,1 @@
-# Django-Assignment
+# Django-Elearning Platform
